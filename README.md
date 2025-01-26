@@ -2,6 +2,10 @@
 
 I wanted to make a better intro script than Trouble Brewing (hubris, I know!)  This is my attempt at that
 
+tools used
+- https://script.bloodontheclocktower.com/
+- https://botcscriptcheck.github.io/
+
 ## principles for scriptwriting
 
 - fast-paced, more deaths, less protection from death
@@ -12,3 +16,4 @@ I wanted to make a better intro script than Trouble Brewing (hubris, I know!)  T
 - no alignment-switching/madness
 - no characters that makes everyone bluff/pollute public discourse all the time (e.g. juggler, gossip)
 - for beginner scripts, no characters with overwhelming info (spy)
+- for now, stick to Trouble Brewing + Sects & Violets + Bad Moon Rising, so that we retain character tokens
