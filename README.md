@@ -1,6 +1,6 @@
 # botc
 
-I wanted to make a better intro script than Trouble Brewing (hubris, I know!)  This is my attempt at that
+I wanted to make a better intro script than Trouble Brewing (hubris, I know!)  This is my attempt at that, based almost entirely on theorycraft.  
 
 tools used
 - https://script.bloodontheclocktower.com/
@@ -13,6 +13,7 @@ tools used
 - good team should have to bluff too, not just solve
 - good characters should be bluffable
 - no roles too reliant on storyteller (artist, savant)
+- no roles too logistically annoying (lunatic, unfortunately often fun characters)
 - no characters with removed agency without something interesting compensating (just thinking of butler)
 - no alignment-switching/madness
 - no characters that makes everyone bluff/pollute public discourse all the time (e.g. juggler, gossip)
