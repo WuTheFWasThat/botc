@@ -13,7 +13,7 @@ tools used
 - good team should have to bluff too, not just solve
 - good characters should be bluffable
 - no roles too reliant on storyteller (artist, savant)
-- no roles too logistically annoying (lunatic, unfortunately often fun characters)
+- avoid roles with complicated rules edge-cases or that are logistically annoying (lunatic, philosopher, pit hag.  unfortunately all fun characters)
 - no characters with removed agency without something interesting compensating (just thinking of butler)
 - no alignment-switching/madness
 - no characters that makes everyone bluff/pollute public discourse all the time (e.g. juggler, gossip)
