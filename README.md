@@ -11,6 +11,7 @@ tools used
 - fast-paced, more deaths, less protection from death
 - no publicly known hard-confirms (e.g. virgin):  too much info centralization, not fun
 - good team should have to bluff too, not just solve
+- good characters should be bluffable
 - no roles too reliant on storyteller (artist, savant)
 - no characters with removed agency without something interesting compensating (just thinking of butler)
 - no alignment-switching/madness
