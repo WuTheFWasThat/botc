@@ -6,7 +6,7 @@ tools used
 - https://script.bloodontheclocktower.com/
 - https://botcscriptcheck.github.io/
 
-## principles for scriptwriting
+## principles for writing this script
 
 - fast-paced, more deaths, less protection from death
 - no publicly known hard-confirms (e.g. virgin):  too much info centralization, not fun
