@@ -21,14 +21,17 @@ tools used
 - for now, stick to Trouble Brewing + Sects & Violets + Bad Moon Rising, so that we retain character tokens
 
 ## current worries
-- assassin maybe a bit weak.  i considered witch, but i like the extra deaths being at night (assassin + gambler can be funny)
 - not many "easy" demon bluffs (removed mayor, soldier)
 - grandmother is hard to bluff.  librarian/undertaker can be tough too
+- assassin maybe a bit weak.  i considered witch, but i like the extra deaths being at night (assassin + gambler can be funny)
 
 ## possible tweaks
 - could have dreamer, although makes the storyteller really have to think.
+- could have klutz instead of saint
+- could have witch instead of assassin
+- could maybe add: no dashii, vortox
 - if allowing experimental characters, some nice/simple ones :  
    - townsfolk:  acrobat.  also maybe knight, nightwatchman, preacher, shugenja, steward, noble, magician, 
-   - minions: goblin, witch, godfather? fearmonger? organ grinder?
-   - outsider: klutz.  moonchild?  golem?
-   - demon: no dashii, vortox
+   - minions: goblin, godfather? fearmonger? organ grinder?
+   - outsider: moonchild?  golem?
+   - demons: ...
