@@ -8,7 +8,7 @@ tools used
 
 ## principles for writing this script
 
-- fast-paced, more deaths, less protection from death
+- fast-paced, more deaths (assassin, gambler, grandmother), less protection from death (soldier, monk)
 - no publicly known hard-confirms (e.g. virgin):  too much info centralization, not fun
 - good team should have to bluff too, not just solve
 - good characters should be bluffable
