@@ -28,10 +28,10 @@ tools used
 ## possible tweaks
 - could have dreamer, although makes the storyteller really have to think.
 - could have klutz instead of saint
-- could have witch instead of assassin
+- could have godfather or witch instead of assassin
 - could maybe add: no dashii, vortox
 - if allowing experimental characters, some nice/simple ones :  
    - townsfolk:  acrobat.  also maybe knight, nightwatchman, preacher, shugenja, steward, noble, magician, 
-   - minions: goblin, godfather? fearmonger? organ grinder?
+   - minions: goblin, fearmonger? organ grinder?
    - outsider: moonchild?  golem?
    - demons: ...
