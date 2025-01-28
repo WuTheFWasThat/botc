@@ -20,18 +20,27 @@ tools used
 - for beginner scripts, no characters with overwhelming info (spy)
 - for now, stick to Trouble Brewing + Sects & Violets + Bad Moon Rising, so that we retain character tokens
 
-## current worries
-- not many "easy" demon bluffs (removed mayor, soldier)
-- grandmother is hard to bluff.  librarian/undertaker can be tough too
-- assassin maybe a bit weak.  i considered witch, but i like the extra deaths being at night (assassin + gambler can be funny)
-
 ## possible tweaks
-- could have dreamer, although makes the storyteller really have to think.
+
+### possible small tweaks
+- could have dreamer, although makes the storyteller really have to think.  but pretty fun role
 - could have klutz instead of saint
-- could have godfather or witch instead of assassin
+- could have godfather or assassin
 - could maybe add: no dashii, vortox
 - if allowing experimental characters, some nice/simple ones :  
-   - townsfolk:  acrobat.  also maybe knight, nightwatchman, preacher, shugenja, steward, noble, magician, 
+   - townsfolk:  also maybe knight, nightwatchman, preacher, shugenja, steward, noble, magician.  acrobat would be lovely if adding other night deaths
    - minions: goblin, fearmonger? organ grinder?
    - outsider: moonchild?  golem?
    - demons: ...
+
+### gambler/grandmother
+
+I would like to have more deaths!  In particular, I would love to do grandmother, and gambler.  However as is, they're too hard to bluff. 
+
+Possible fixes, but none seem great:
+- assassin/godfather as minions.  helps a bit, though still a pretty weird bluff
+- add monk/soldier so that gambler can plausibly die in a 1-death night (helps only a bit, doesn't fix grandmother)
+- add pit hag lol, fixes a lot of problems by making so many things possible... also really changes the feel of the script and again only helps a bit
+- add some BMR demons.. basically just take the script in a BMR direction, but with more deaths 
+tempting to tweak characters slightly. like change imp so that after the starpass, new imp gets to also kill, and suddenly imp can bluff gambler. i think this is a better fix gameplay-wise than any of the above
+
